@@ -1,0 +1,11 @@
+D:\WEP API\my_project\bsSolution\Entitites\bin\Debug\net8.0\Entitites.deps.json
+D:\WEP API\my_project\bsSolution\Entitites\bin\Debug\net8.0\Entitites.dll
+D:\WEP API\my_project\bsSolution\Entitites\bin\Debug\net8.0\Entitites.pdb
+D:\WEP API\my_project\bsSolution\Entitites\obj\Debug\net8.0\Entitites.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEP API\my_project\bsSolution\Entitites\obj\Debug\net8.0\Entitites.AssemblyInfoInputs.cache
+D:\WEP API\my_project\bsSolution\Entitites\obj\Debug\net8.0\Entitites.AssemblyInfo.cs
+D:\WEP API\my_project\bsSolution\Entitites\obj\Debug\net8.0\Entitites.csproj.CoreCompileInputs.cache
+D:\WEP API\my_project\bsSolution\Entitites\obj\Debug\net8.0\Entitites.dll
+D:\WEP API\my_project\bsSolution\Entitites\obj\Debug\net8.0\refint\Entitites.dll
+D:\WEP API\my_project\bsSolution\Entitites\obj\Debug\net8.0\Entitites.pdb
+D:\WEP API\my_project\bsSolution\Entitites\obj\Debug\net8.0\ref\Entitites.dll
