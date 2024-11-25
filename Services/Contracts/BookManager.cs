@@ -8,12 +8,14 @@ using Services.Contracts;
 
 namespace Services
 {
-    public class BookService : IBookService
+    public class BookManager : IBookService
     {
         private readonly IRepositoryManager _manager;
+        private readonly ILoggerService _logger;
 
-        public BookService(IRepositoryManager manager){
+        public BookManager(IRepositoryManager manager,ILoggerService logger){
             _manager=manager;
+            _logger=logger;
         }
 
 
@@ -28,6 +30,10 @@ namespace Services
         public void DeleteOneBook(int id, bool trackChange)
         {
             var book=_manager.Book().GetOneBook(id,trackChange).SingleOrDefault();
+            if(book is null){
+                _logger.LogWarning($"The Book with id {id} could not found");
+                throw new Exception($"The Book with id {id} could not found");
+            }
             _manager.Book().DeleteOneBook(book);
             _manager.Save();
         }
@@ -45,6 +51,10 @@ namespace Services
         public void UpdateOneBook(int id, bool trackChange)
         {
             var book=_manager.Book().GetOneBook(id,trackChange).SingleOrDefault();
+             if(book is null){
+                _logger.LogWarning($"The Book with id {id} could not found");
+                throw new Exception($"The Book with id {id} could not found");
+            }
             _manager.Book().UpdateOneBook(book);
             _manager.Save();            
         }

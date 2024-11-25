@@ -1,4 +1,5 @@
 using System.Net;
+using Microsoft.AspNetCore.Mvc.ViewComponents;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure.Internal;
 using Repositories.Contracts;
@@ -19,5 +20,8 @@ namespace webapi_v1.Extensions
 
         public static void ConfigureServiceManager(this IServiceCollection services)
             =>services.AddScoped<IServiceManager,ServiceManager>();
+
+        public static void ConfigureLoggerService(this IServiceCollection services)
+            =>services.AddSingleton<ILoggerService,LoggerManager>();
     }
 }
