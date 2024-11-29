@@ -1,0 +1,18 @@
+2024-11-28 15:20:57.3816 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-11-28 15:20:57.3952 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-28 15:20:57.4040 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\WEP API\my_project\bsSolution\webapi_v1.1\nlog.config
+2024-11-28 15:20:57.4040 Info Configuration initialized.
+2024-11-28 15:30:28.2623 Info AppDomain Shutting down. LogFactory closing...
+2024-11-28 15:30:28.2623 Info LogFactory has been closed.
+2024-11-28 15:56:38.7903 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-11-28 15:56:38.8057 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-28 15:56:38.8182 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\WEP API\my_project\bsSolution\webapi_v1.1\nlog.config
+2024-11-28 15:56:38.8324 Info Configuration initialized.
+2024-11-28 16:06:01.1606 Info AppDomain Shutting down. LogFactory closing...
+2024-11-28 16:06:01.1690 Info LogFactory has been closed.
+2024-11-28 16:06:11.4878 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-11-28 16:06:11.4991 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-11-28 16:06:11.4991 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\WEP API\my_project\bsSolution\webapi_v1.1\nlog.config
+2024-11-28 16:06:11.5152 Info Configuration initialized.
+2024-11-28 17:50:28.9604 Info AppDomain Shutting down. LogFactory closing...
+2024-11-28 17:50:28.9750 Info LogFactory has been closed.

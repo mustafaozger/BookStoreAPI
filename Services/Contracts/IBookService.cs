@@ -11,7 +11,7 @@ namespace Services.Contracts
         public IEnumerable<BookModel> GetAllBook(bool trackChange);
         public BookModel GetOneBook(int id , bool trackChange);
         public BookModel CreateOneBook(BookModel book);
-        public void UpdateOneBook(int id,bool trackChange);
-        public void DeleteOneBook(int id , bool trackChange);
+        public bool UpdateOneBook(int id,bool trackChange);
+        public bool DeleteOneBook(int id , bool trackChange);
     }
 }

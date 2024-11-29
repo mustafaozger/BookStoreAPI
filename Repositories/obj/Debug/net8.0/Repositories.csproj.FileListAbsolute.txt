@@ -13,3 +13,4 @@ D:\WEP API\my_project\bsSolution\Repositories\obj\Debug\net8.0\Repositories.dll
 D:\WEP API\my_project\bsSolution\Repositories\obj\Debug\net8.0\refint\Repositories.dll
 D:\WEP API\my_project\bsSolution\Repositories\obj\Debug\net8.0\Repositories.pdb
 D:\WEP API\my_project\bsSolution\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\WEP API\my_project\bsSolution\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
