@@ -9,3 +9,4 @@ D:\WEP API\my_project\bsSolution\Entitites\obj\Debug\net8.0\Entitites.dll
 D:\WEP API\my_project\bsSolution\Entitites\obj\Debug\net8.0\refint\Entitites.dll
 D:\WEP API\my_project\bsSolution\Entitites\obj\Debug\net8.0\Entitites.pdb
 D:\WEP API\my_project\bsSolution\Entitites\obj\Debug\net8.0\ref\Entitites.dll
+D:\WEP API\my_project\bsSolution\Entitites\obj\Debug\net8.0\Entitites.sourcelink.json

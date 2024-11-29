@@ -175,3 +175,8 @@ D:\WEP API\my_project\bsSolution\webapi_v1.1\bin\Debug\net8.0\Services.dll
 D:\WEP API\my_project\bsSolution\webapi_v1.1\bin\Debug\net8.0\Services.pdb
 D:\WEP API\my_project\bsSolution\webapi_v1.1\bin\Debug\net8.0\Presentation.dll
 D:\WEP API\my_project\bsSolution\webapi_v1.1\bin\Debug\net8.0\Presentation.pdb
+D:\WEP API\my_project\bsSolution\webapi_v1.1\bin\Debug\net8.0\nlog.config
+D:\WEP API\my_project\bsSolution\webapi_v1.1\bin\Debug\net8.0\NLog.dll
+D:\WEP API\my_project\bsSolution\webapi_v1.1\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+D:\WEP API\my_project\bsSolution\webapi_v1.1\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
+D:\WEP API\my_project\bsSolution\webapi_v1.1\obj\Debug\net8.0\webapi_v1.1.sourcelink.json
