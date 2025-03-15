@@ -180,3 +180,8 @@ D:\WEP API\my_project\bsSolution\webapi_v1.1\bin\Debug\net8.0\NLog.dll
 D:\WEP API\my_project\bsSolution\webapi_v1.1\bin\Debug\net8.0\NLog.Extensions.Logging.dll
 D:\WEP API\my_project\bsSolution\webapi_v1.1\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
 D:\WEP API\my_project\bsSolution\webapi_v1.1\obj\Debug\net8.0\webapi_v1.1.sourcelink.json
+D:\WEP API\my_project\bsSolution\webapi_v1.1\bin\Debug\net8.0\webapi_v1.1.staticwebassets.endpoints.json
+D:\WEP API\my_project\bsSolution\webapi_v1.1\bin\Debug\net8.0\AutoMapper.dll
+D:\WEP API\my_project\bsSolution\webapi_v1.1\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\WEP API\my_project\bsSolution\webapi_v1.1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\WEP API\my_project\bsSolution\webapi_v1.1\obj\Debug\net8.0\staticwebassets\msbuild.webapi_v1.1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

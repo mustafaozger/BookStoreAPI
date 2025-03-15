@@ -16,17 +16,12 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddControllers()
     .AddApplicationPart(typeof(Presentation.AssemblyReference).Assembly);
 
-/*
-builder.Services.AddDbContext<RepositoryContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("sqlConnection"))
-);
-    bunun yerine extension oluşturdum aşağıda yazıyor
-*/
 
 builder.Services.ConfigurationSqlService(builder.Configuration);
 builder.Services.ConfigureRepositoryManage();
 builder.Services.ConfigureServiceManager();
 builder.Services.ConfigureLoggerService();
+builder.Services.AddAutoMapper(typeof(Program));
 var app = builder.Build();
 
 var logger =app.Services.GetRequiredService<ILoggerService>();
@@ -43,7 +38,6 @@ if(app.Environment.IsProduction())
 }
 app.UseHttpsRedirection();
 app.MapControllers();
-
 
 
 app.Run();
