@@ -16,3 +16,27 @@
 2024-11-28 16:06:11.5152 Info Configuration initialized.
 2024-11-28 17:50:28.9604 Info AppDomain Shutting down. LogFactory closing...
 2024-11-28 17:50:28.9750 Info LogFactory has been closed.
+2025-03-10 15:20:14.3782 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-10 15:20:14.4162 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-03-10 15:20:14.4252 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\WEP API\my_project\bsSolution\webapi_v1.1\nlog.config
+2025-03-10 15:20:14.4252 Info Configuration initialized.
+2025-03-10 15:31:15.1502 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-10 15:31:15.1676 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-03-10 15:31:15.1790 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\WEP API\my_project\bsSolution\webapi_v1.1\nlog.config
+2025-03-10 15:31:15.1938 Info Configuration initialized.
+2025-03-10 15:32:34.4712 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-10 15:32:34.4849 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-03-10 15:32:34.4967 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\WEP API\my_project\bsSolution\webapi_v1.1\nlog.config
+2025-03-10 15:32:34.5067 Info Configuration initialized.
+2025-03-10 15:35:03.4749 Info AppDomain Shutting down. LogFactory closing...
+2025-03-10 15:35:03.4749 Info LogFactory has been closed.
+2025-03-10 15:38:39.7768 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-10 15:38:39.8488 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-03-10 15:38:39.8488 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\WEP API\my_project\bsSolution\webapi_v1.1\nlog.config
+2025-03-10 15:38:39.8672 Info Configuration initialized.
+2025-03-10 15:41:01.5346 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-10 15:41:01.5346 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-03-10 15:41:01.5637 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\WEP API\my_project\bsSolution\webapi_v1.1\nlog.config
+2025-03-10 15:41:01.5730 Info Configuration initialized.
+2025-03-10 16:00:40.2955 Info AppDomain Shutting down. LogFactory closing...
+2025-03-10 16:00:40.3107 Info LogFactory has been closed.

@@ -138,7 +138,10 @@
       },
       "Entitites/1.0.0": {
         "runtime": {
-          "Entitites.dll": {}
+          "Entitites.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
